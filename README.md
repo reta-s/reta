@@ -1,5 +1,5 @@
 
-Please download the released file **reta.tar.gz** for the R package.
+Please download the [released file](https://github.com/reta-s/reta/releases) **reta.tar.gz** for the R package.
 
 Demo files include:
 - reta-doc.html
