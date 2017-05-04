@@ -1,3 +1,5 @@
+## NOTICE
+some bugs found, to be fixed, old source code deleted temporarily.
 
 Please download the [released file](https://github.com/reta-s/reta/releases) **reta.tar.gz** for the R package.
 
